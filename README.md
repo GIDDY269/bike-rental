@@ -47,7 +47,10 @@ Feel free to explore the data set with multiple **supervised** and **unsupervise
 | 16                	| registered     	| Count of   registered users                                                                                                                                                                                                                                                                                	| Quantitative 	| 1, 0, 118                          	| 0             	|
 | 17                	| cnt            	| Count of total rental bikes including both casual and registered                                                                                                                                                                                                                                           	| Quantitative 	| 1, 2, 175                          	| 0             	|
 ---
-
+# content
+* Feature extraction 
+* Detailed Exploratory Data analysis
+* Buildt a model using RandomForestRegressor
 ### Acknowledgement
 
 
